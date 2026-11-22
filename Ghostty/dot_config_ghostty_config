@@ -1,0 +1,4 @@
+term = xterm-256color
+keybind = ctrl+l=clear_screen
+shell-integration-features = ssh-env,ssh-terminfo
+
